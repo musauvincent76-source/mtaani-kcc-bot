@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=FF0000&background=000000&center=true&vCenter=true&width=600&lines=🚀+BWM+XMD+PRO;🔥+WhatsApp+Bot;💻+By+Ibrahim+Adams" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=FF0000&background=000000&center=true&vCenter=true&width=600&lines=🚀+mtaani+kcc+bot;🔥+WhatsApp+Bot;💻+By+alex+musau" alt="Typing Animation">
 </h1>
 
 <!-- Banner Image -->
@@ -15,7 +15,7 @@
 
 ---
 
-## 📌 **How to Connect BWM XMD Bot**
+## 📌 **How to Connect mtaani-kcc-bot**
 
 ### **Step 1: Get Session ID**
 Click the button below to quickly generate your WhatsApp session ID:
@@ -150,5 +150,5 @@ Once configured, your bot will be ready to use!
 </p>
 
 <p align="center">
-  <strong>BWM XMD PRO © 2026 | Developed by Ibrahim Adams</strong>
+  <strong>mtaani kcc bot © 2026 | Developed by alex musau</strong>
 </p>
